@@ -14,7 +14,7 @@ Pewlett Hackard is facing a surge of retirements as baby bombers begin to leave 
 
 - There are 1549 employees identified as eligible to serve as mentors for new hires.
 
-![mentors](Resources/mentors.png)
+ ![mentors](Resources/mentors.png)
 
 - The criteria for mentorship eligibility is very limited, however, as it considers only employees born in 1965. 
 
