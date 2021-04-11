@@ -30,4 +30,4 @@ The impending "silver tsunami" as baby boomers leave the workforce will have a s
 
   - The expanded list of potential mentors includes a good balance of engineers and staff to provide support support for new hires in the needed positions.
 
-    ![expanded mentors](Resources/expanded mentors titles.png)
+    ![Expanded Mentorship Eligibility](Pewlett_Hackard Analysis Folder/Data/expanded_mentorship_eligibility.csv)
